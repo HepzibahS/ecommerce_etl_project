@@ -6,10 +6,6 @@ __pycache__/
 .venv/
 .env
 
-# Ignore data files
-data/
-tmp/
-
 # Ignore IDE files
 .vscode/
 *.log

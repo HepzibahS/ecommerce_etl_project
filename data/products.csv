@@ -1,0 +1,101 @@
+product_id,product_name,category,price,inventory_status,launch_date,rating
+101,Near Gadget,Electronics,$372.07,In Stock,2025-06-19,3.9
+102,Trouble Gadget,Electrnics,$20.73,In Stock,2025-07-21,3.0
+103,Form Gadget,StaTionery,$103.42,Low Stock,2024-06-23,2.7
+104,Simple Thing,Beauty,$405.67,In Stock,2024-02-26,1.6
+105,People Thing,electro,$142.55,In Stock,2023-08-10,2.3
+106,Focus Gadget,Electrnics,$52.87,Out of Stock,2025-01-13,4.2
+107,Carry Thing,StaTionery,$66.79,Out of Stock,2024-02-01,
+108,Partner Kit,electro,$290.79,Low Stock,2023-11-08,
+109,Cold Item,Beauty,$492.68,In Stock,2023-10-02,2.5
+110,Long Thing,electro,$85.51,Out of Stock,2023-11-17,2.1
+111,Bit Gadget,Stationery,$269.4,In Stock,2025-03-26,2.5
+112,Put Item,electro,$422.21,In Stock,2024-09-09,1.1
+113,Agency Kit,Electrnics,$137.53,In Stock,2024-04-26,3.3
+114,Hair Kit,Clothing,$329.44,Out of Stock,2024-05-07,3.6
+115,Next Item,Beauty,$74.12,Low Stock,2023-08-26,2.1
+116,Billion Thing,Electrnics,$184.19,In Stock,2024-10-27,1.4
+117,Understand Gadget,Home,$80.66,In Stock,2023-10-08,2.7
+118,Almost Gadget,Electrnics,$193.9,Out of Stock,2024-01-22,4.9
+119,Reduce Gadget,Home,$342.45,Low Stock,2024-08-02,4.1
+120,Finally Kit,Home,$150.28,In Stock,2025-07-14,4.8
+121,Determine Kit,StaTionery,$382.17,Low Stock,2024-06-30,4.5
+122,Water Kit,StaTionery,$306.44,In Stock,2023-10-03,1.6
+123,Task Gadget,electro,$246.86,In Stock,2024-12-28,4.5
+124,Herself Kit,Clothing,$33.67,Low Stock,2024-03-28,1.3
+125,Simply Thing,Home,$489.1,Low Stock,2025-03-31,1.5
+126,Have Thing,StaTionery,$86.74,Low Stock,2023-10-01,2.7
+127,Here Item,StaTionery,$378.86,Low Stock,2023-09-03,2.2
+128,Assume Kit,Home ,$450.31,Out of Stock,2023-08-18,1.9
+129,Five Kit,Electronics,$296.21,In Stock,2024-03-18,1.0
+130,Soon Gadget,Clothing,$38.36,In Stock,2024-08-07,1.3
+131,Sense Item,Beauty,$336.14,In Stock,2024-01-05,3.9
+132,Difficult Thing,Clothing,$393.39,Out of Stock,2024-02-19,1.4
+133,What Thing,electro,$214.67,Out of Stock,2025-02-11,1.2
+134,Look Gadget,Electronics,$204.3,Out of Stock,2024-02-16,1.4
+135,Plant Item,Clothing,$270.46,In Stock,2024-12-10,2.1
+136,Finish Item,Home,$224.35,Low Stock,2024-01-14,
+137,Education Gadget,Home,$463.55,In Stock,2025-01-07,2.9
+138,Power Item,Electrnics,$451.71,In Stock,2025-01-02,4.9
+139,Meeting Kit,Home ,$146.2,Low Stock,2024-04-23,5.0
+140,Either Thing,Stationery,$99.0,In Stock,2025-01-08,3.3
+141,Effect Gadget,electro,$33.3,Low Stock,2025-01-28,4.7
+142,Alone Item,Electronics,$480.59,In Stock,2024-04-07,1.3
+143,Everyone Gadget,Clothing,$204.87,Low Stock,2025-06-13,3.4
+144,Campaign Gadget,Electrnics,$330.4,Low Stock,2023-08-16,4.7
+145,Teacher Item,electro,$123.15,Out of Stock,2024-08-07,3.6
+146,If Thing,electro,$464.86,In Stock,2025-06-10,
+147,Theory Gadget,Home,$271.13,Low Stock,2024-01-18,4.7
+148,See Gadget,Clothing,$187.92,In Stock,2025-04-26,3.2
+149,Same Kit,StaTionery,$8.87,Low Stock,2024-01-14,3.7
+150,Join Item,Beauty,$62.14,In Stock,2024-03-30,1.6
+151,Hair Kit,Clothing,$360.22,In Stock,2025-02-22,4.4
+152,Thought Thing,Beauty,$453.14,In Stock,2024-01-25,
+153,Child Thing,Beauty,$26.82,Out of Stock,2024-02-24,3.5
+154,Begin Kit,Stationery,$371.91,Low Stock,2024-09-26,3.2
+155,Attack Gadget,Home,$472.8,Low Stock,2025-02-14,3.2
+156,Deep Kit,StaTionery,$78.31,In Stock,2025-03-10,
+157,Quite Kit,Electronics,$449.97,In Stock,2025-03-25,3.7
+158,A Kit,StaTionery,$442.65,Out of Stock,2025-07-11,4.0
+159,North Item,Stationery,$488.22,In Stock,2023-11-25,1.1
+160,Either Kit,Electrnics,$402.11,Low Stock,2025-04-20,2.1
+161,Draw Gadget,Electrnics,$436.72,Out of Stock,2024-04-09,4.3
+162,Kitchen Thing,electro,$156.07,In Stock,2025-02-03,3.6
+163,Risk Thing,electro,$142.91,In Stock,2023-12-31,2.1
+164,Happen Thing,StaTionery,$168.92,In Stock,2024-05-29,4.9
+165,Book Item,Beauty,$23.94,Low Stock,2024-03-25,3.9
+166,Item Kit,Electrnics,$305.07,Low Stock,2025-07-12,4.6
+167,Size Item,Beauty,$26.97,Out of Stock,2024-03-19,
+168,Change Item,electro,$218.49,Low Stock,2024-10-12,3.5
+169,Amount Gadget,Beauty,$256.03,Low Stock,2025-07-09,2.6
+170,Baby Kit,StaTionery,$68.01,Out of Stock,2025-04-09,2.5
+171,Environmental Item,Beauty,$206.01,In Stock,2024-10-06,1.8
+172,Agree Kit,Home ,$223.68,Low Stock,2023-10-31,2.9
+173,None Item,Home,$145.47,Low Stock,2024-10-09,2.3
+174,Worker Item,Beauty,$116.2,In Stock,2024-12-30,1.2
+175,Market Thing,Home,$230.43,Low Stock,2025-05-29,3.9
+176,Give Thing,Home ,$202.83,In Stock,2024-05-09,1.0
+177,Never Gadget,Electrnics,$113.33,Low Stock,2025-01-01,1.2
+178,Degree Item,Home,$230.95,Out of Stock,2025-07-04,5.0
+179,She Kit,Home ,$308.26,Low Stock,2023-12-22,2.7
+180,Whom Thing,Stationery,$373.11,Out of Stock,2024-12-29,4.0
+181,Hot Kit,StaTionery,$244.88,In Stock,2025-06-22,1.3
+182,Notice Kit,Clothing,$139.5,Out of Stock,2025-03-18,1.3
+183,Wrong Item,Clothing,$194.6,In Stock,2023-12-20,1.3
+184,Bring Thing,electro,$273.59,Out of Stock,2023-11-09,
+185,Force Thing,Electrnics,$452.9,Low Stock,2025-07-10,1.1
+186,Outside Thing,Home ,$7.92,Out of Stock,2023-09-25,2.6
+187,Create Thing,StaTionery,$375.02,Low Stock,2025-05-09,4.6
+188,Book Thing,Clothing,$140.1,Out of Stock,2023-11-21,
+189,Life Kit,Electrnics,$363.47,Out of Stock,2023-07-25,4.9
+190,Road Gadget,Electrnics,$297.99,Low Stock,2024-11-22,
+191,Commercial Thing,Stationery,$434.09,In Stock,2025-03-13,
+192,Look Thing,electro,$109.77,Out of Stock,2024-12-01,4.5
+193,Seem Kit,Electrnics,$129.87,In Stock,2024-08-12,4.0
+194,Whatever Gadget,electro,$115.99,In Stock,2024-07-17,3.6
+195,Sort Gadget,Clothing,$103.68,In Stock,2024-10-12,2.0
+196,Series Thing,Home,$284.16,In Stock,2024-02-19,2.0
+197,Hand Kit,Stationery,$304.92,Low Stock,2025-02-23,4.1
+198,Lot Item,Beauty,$58.51,In Stock,2024-04-20,3.3
+199,Adult Thing,Electrnics,$471.03,In Stock,2024-04-08,
+200,Success Item,Home,$350.11,Out of Stock,2025-03-25,3.4
